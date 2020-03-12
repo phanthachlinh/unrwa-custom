@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AbUi_HomePage _changeEventItemColors should match snatpshot 1`] = `
+"<head></head><body><div class=\\"event-item\\">
+				<div class=\\"event-details\\"><img class=\\"event-detail__icon\\" src=\\"
+							https://libs.iraiser.eu/users/unrwa-p2p/public/assets/collecte_unrwa_computer@2x.png
+					\\">
+				</div>
+					<div class=\\"color-primary\\"></div>
+					<div class=\\"event-icon\\">
+							https://libs.iraiser.eu/users/unrwa-p2p/public/assets/collecte_unrwa_computer@2x.png
+					</div>
+				</div>
+				</body>"
+`;
