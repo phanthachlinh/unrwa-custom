@@ -1,6 +1,7 @@
-import AbUi_HomePage from "./pages/ab_HomePage/AbUi_HomePage"
-import AbUi_AllEventsPage from "./pages/Ab_AllEventsPage/Ab_AllEventsPage"
-import General from "./pages/general/general"
+import AbUi_HomePage from "./pages/AbUi_HomePage"
+import AbUi_AllEventsPage from "./pages/Ab_AllEventsPage"
+import General from "./pages/general"
+import './style.scss'
 declare var window: Window
 interface IUnrwaPageData {
 	TRANSLATIONS: ITranslationDictionary

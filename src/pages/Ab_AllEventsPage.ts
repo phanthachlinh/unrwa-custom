@@ -1,4 +1,4 @@
-import { ITranslationDictionary } from "../../app"
+import { ITranslationDictionary } from "../app"
 
 
 /**
